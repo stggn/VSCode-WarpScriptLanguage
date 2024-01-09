@@ -268,7 +268,7 @@
 		"file-saver": "2.0.5",
 		"http-parser-js": "0.5.8",
 		"lodash": "4.17.21",
-		"pac-resolver": "4.1.0",
+		"pac-resolver": "5.0.0",
 		"proxy-agent": "4.0.0",
 		"request": "2.88.2",
 		"socks-proxy-agent": "5.0.0",
